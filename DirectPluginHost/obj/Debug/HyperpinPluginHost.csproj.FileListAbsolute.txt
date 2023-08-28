@@ -1,0 +1,6 @@
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\bin\Debug\HyperpinPluginHost.dll
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\bin\Debug\HyperpinPluginHost.pdb
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\bin\Debug\HyperpinPluginInterface.dll
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\obj\Debug\HyperpinPluginHost.dll
+C:\Users\Tom\Documents\GitHub\HyperpinPluginHost\HyperpinPluginHost\obj\Debug\HyperpinPluginHost.pdb

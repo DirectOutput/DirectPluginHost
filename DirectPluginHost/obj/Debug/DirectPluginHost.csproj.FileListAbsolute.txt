@@ -1,0 +1,14 @@
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\DirectPluginHost.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\DirectPluginHost.pdb
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\DirectPluginInterface.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\DirectPluginInterface.pdb
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\DirectPluginHost.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\DirectPluginHost.pdb
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\bin\Debug\DirectPluginHost.dll
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\bin\Debug\DirectPluginHost.pdb
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\bin\Debug\DirectPluginInterface.dll
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\bin\Debug\DirectPluginInterface.pdb
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\obj\Debug\DirectPluginHost.dll
+C:\Users\Tom\Documents\GitHub\DirectPluginHost\DirectPluginHost\obj\Debug\DirectPluginHost.pdb

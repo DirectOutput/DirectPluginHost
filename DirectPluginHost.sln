@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectPluginHost", "DirectPluginHost\DirectPluginHost.csproj", "{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectPluginHostTest", "DirectPluginHostTest\DirectPluginHostTest.csproj", "{700D46B2-7615-46F8-BE74-4ED2F7947D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentation", "Documentation\Documentation.csproj", "{C9187A14-B415-445D-89F8-770098F7F1A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBD1FB75-A7BB-43B7-88D6-F003D3EC4F23}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DoxygenConfig", "DoxygenConfig", "{9A226C02-0197-455C-81BC-CD1A02CD2500}"
+	ProjectSection(SolutionItems) = preProject
+		DoxygenConfig\DoxygenConfigFile_Github = DoxygenConfig\DoxygenConfigFile_Github
+		DoxygenConfig\DoxygenConfigFile_Local = DoxygenConfig\DoxygenConfigFile_Local
+		DoxygenConfig\footer_Github.html = DoxygenConfig\footer_Github.html
+		DoxygenConfig\footer_local.html = DoxygenConfig\footer_local.html
+		DoxygenConfig\header_Github.html = DoxygenConfig\header_Github.html
+		DoxygenConfig\header_local.html = DoxygenConfig\header_local.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F9D6653B-2FE9-46D1-8F5E-3EDD1EA10794}.Release|x86.ActiveCfg = Release|Any CPU
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Debug|x86.ActiveCfg = Debug|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Debug|x86.Build.0 = Debug|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Release|Any CPU.ActiveCfg = Release|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Release|Mixed Platforms.Build.0 = Release|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Release|x86.ActiveCfg = Release|x86
+		{700D46B2-7615-46F8-BE74-4ED2F7947D09}.Release|x86.Build.0 = Release|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Debug|x86.ActiveCfg = Debug|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Debug|x86.Build.0 = Debug|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Release|Any CPU.ActiveCfg = Release|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Release|x86.ActiveCfg = Release|x86
+		{C9187A14-B415-445D-89F8-770098F7F1A7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A226C02-0197-455C-81BC-CD1A02CD2500} = {FBD1FB75-A7BB-43B7-88D6-F003D3EC4F23}
+	EndGlobalSection
+EndGlobal

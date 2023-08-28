@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\PluginHost.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\PluginHost.pdb
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\PluginInterface.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\bin\Debug\PluginInterface.pdb
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\PluginHost.dll
+C:\Users\Tom\Documents\GitHub\PluginHost\PluginHost\obj\Debug\PluginHost.pdb
